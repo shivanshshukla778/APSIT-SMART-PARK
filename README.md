@@ -100,3 +100,10 @@ Authentication via Firebase
 Database rules enforced for authorized access
 Role-based parking access (Student/Faculty)
 
+ScreenShots:
+
+https://github.com/shivanshshukla778/APSIT-SMART-PARK/blob/main/PROJECT%20DESIGN.jpeg
+https://github.com/shivanshshukla778/APSIT-SMART-PARK/blob/main/app%20screenshot.jpeg
+https://github.com/shivanshshukla778/APSIT-SMART-PARK/blob/main/app%20screenshot%202.png
+
+
