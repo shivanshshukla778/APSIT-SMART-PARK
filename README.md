@@ -103,14 +103,14 @@ Role-based parking access (Student/Faculty)
 ## 📸 Screenshots & Design
 
 ### 🧩 PROJECT DESIGN
-![PROJECT DESIGN](https://raw.githubusercontent.com/shivanshshukla778/APSIT-SMART-PARK/main/PROJECT%20DESIGN.jpeg)
+![PROJECT DESIGN](https://github.com/shivanshshukla778/APSIT-SMART-PARK/commit/fb01eba2cc04a76567cc38562210e663de6267c3)
 
 ---
 
 ### 📱 APP SCREENSHOT
-![APP SCREENSHOT](https://raw.githubusercontent.com/shivanshshukla778/APSIT-SMART-PARK/main/app%20screenshot.jpeg)
+![APP SCREENSHOT](https://github.com/shivanshshukla778/APSIT-SMART-PARK/commit/fb01eba2cc04a76567cc38562210e663de6267c3)
 
 ---
 
 ### 📱 APP SCREENSHOT 2
-![APP SCREENSHOT 2](https://raw.githubusercontent.com/shivanshshukla778/APSIT-SMART-PARK/main/app%20screenshot%202.png)
+![APP SCREENSHOT 2](https://github.com/shivanshshukla778/APSIT-SMART-PARK/commit/fb01eba2cc04a76567cc38562210e663de6267c3)
