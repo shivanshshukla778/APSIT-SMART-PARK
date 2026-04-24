@@ -85,8 +85,13 @@ flutter pub get
 
 # Run the app
 flutter run
+```
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
+```
 lib/
  ├── models/
  ├── services/
@@ -94,23 +99,46 @@ lib/
  ├── screens/
  ├── widgets/
  └── main.dart
+```
 
- 🔒 Security
-Authentication via Firebase
-Database rules enforced for authorized access
-Role-based parking access (Student/Faculty)
+---
+
+## 🔒 Security
+
+- Authentication via Firebase
+- Database rules enforced for authorized access
+- Role-based parking access (Student/Faculty)
+
+---
 
 ## 📸 Screenshots & Design
 
 ### 🧩 PROJECT DESIGN
-![PROJECT DESIGN](PROJECT DESIGN.jpeg)
+![PROJECT DESIGN](https://github.com/shivanshshukla778/APSIT-SMART-PARK/raw/main/PROJECT%20DESIGN.jpeg)
 
 ---
 
 ### 📱 APP SCREENSHOT
-![APP SCREENSHOT](app screenshot.jpeg)
+![APP SCREENSHOT](https://github.com/shivanshshukla778/APSIT-SMART-PARK/raw/main/app%20screenshot.jpeg)
 
 ---
 
 ### 📱 APP SCREENSHOT 2
-![APP SCREENSHOT 2](app screenshot 2.png)
+![APP SCREENSHOT 2](https://github.com/shivanshshukla778/APSIT-SMART-PARK/raw/main/app%20screenshot%202.png)
+
+---
+
+## 📄 License
+
+This project is part of the APSIT Smart Parking System initiative.
+
+---
+
+## 👨‍💻 Author
+
+**Shivanshu Shukla**  
+GitHub: [@shivanshshukla778](https://github.com/shivanshshukla778)
+
+---
+
+**Happy Parking! 🚗**
