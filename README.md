@@ -75,7 +75,7 @@ APSIT Smart Park is designed to simplify and optimize parking for students and s
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/apsit_smart_park.git
+git clone https://github.com/shivanshshukla778/APSIT-SMART-PARK.git
 
 # Navigate to project folder
 cd apsit_smart_park
